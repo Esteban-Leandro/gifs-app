@@ -10,7 +10,7 @@ import { GifsService } from './../../services/gifs.service';
 export class CardListComponent {
 
   @Input()
-  public gifs: Gif[] = []
+  public gifs: Gif[] = [];
 
   
 }
