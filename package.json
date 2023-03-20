@@ -11,7 +11,7 @@
     "test": "ng test",
     "delete:docs": "del docs",
     "delete:dist": "del dist",
-    "copy:dist": "copyfiles dist/gifs-aps/* ./docs -f"
+    "copy:dist": "copyfiles dist/gifs-app/* ./docs -f"
   },
   "private": true,
   "dependencies": {
